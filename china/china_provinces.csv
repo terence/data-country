@@ -1,0 +1,35 @@
+id,Country,GBT 2260,ISO3166-CN,Province,Province (Chinese),Province (Pinyin),Capital,Population,Area (km2),Density (per km2),Abbreviation,Abbreviation (Pinyin),GD Creation Date,GD Last Updated
+1,China,BJ,CN-11,Beijing Municipality,北京市,Běijīng Shì,Beijing,"19,612,368",16800,"1,167.40",京,Jīng,22-Nov-2013,22-Nov-2013
+2,China,TJ,CN-12,Tianjin Municipality,天津市,Tiānjīn Shì,Tianjin,"12,938,224",11305,"1,144.47",津(沽),Jīn (Gu),22-Nov-2013,22-Nov-2013
+3,China,HE,CN-13,Hebei Province,河北省,Héběi Shěng,Shijiazhuang,"71,854,202",187700,382.81,冀,Jì,22-Nov-2013,22-Nov-2013
+4,China,SX,CN-14,Shanxi Province,山西省,Shānxī Shěng,Taiyuan,"35,712,111",156300,228.48,晋,Jìn,22-Nov-2013,22-Nov-2013
+5,China,NM,CN-15,Inner Mongolia Autonomous RegionNei Mongol Autonomous Region,內蒙古自治区,Nèi Měnggǔ Zìzhìqū,Hohhot,"24,706,321",1183000,20.88,蒙(內蒙古),Měng (Nèi Měnggǔ),22-Nov-2013,22-Nov-2013
+6,China,LN,CN-21,Liaoning Province,辽宁省,Liáoníng Shěng,Shenyang,"43,746,323",145900,299.84,辽,Liáo,22-Nov-2013,22-Nov-2013
+7,China,JL,CN-22,Jilin Province,吉林省,Jílín Shěng,Changchun,"27,462,297",187400,146.54,吉,Jí,22-Nov-2013,22-Nov-2013
+8,China,HL,CN-23,Heilongjiang Province,黑龙江省,Hēilóngjiāng,Harbin,"38,312,224",454000,84.39,黑,Hēi,22-Nov-2013,22-Nov-2013
+9,China,SH,CN-31,Shanghai Municipality,上海市,Shànghǎi Shì,Shanghai,"23,019,148",6341,"3,630.21",沪(申),Hù (Shen),22-Nov-2013,22-Nov-2013
+10,China,JS,CN-32,Jiangsu Province,江苏省,Jiāngsū Shěng,Nanjing,"78,659,903",102600,766.67,苏,Sū,22-Nov-2013,22-Nov-2013
+11,China,ZJ,CN-33,Zhejiang Province,浙江省,Zhèjiāng Shěng,Hangzhou,"54,426,891",102000,533.60,浙,Zhè,22-Nov-2013,22-Nov-2013
+12,China,AH,CN-34,Anhui Province,安徽省,Ānhuī Shěng,Hefei,"59,500,510",139700,425.92,皖,Wǎn,22-Nov-2013,22-Nov-2013
+13,China,FJ,CN-35,Fujian Province,福建省,Fújiàn Shěng,Fuzhou,"36,894,216",121300,304.16,闽,Mǐn,22-Nov-2013,22-Nov-2013
+14,China,JX,CN-36,Jiangxi Province,江西省,Jiāngxī Shěng,Nanchang,"44,567,475",167000,266.87,赣,Gàn,22-Nov-2013,22-Nov-2013
+15,China,SD,CN-37,Shandong Province,山东省,Shāndōng Shěng,Jinan,"95,793,065",153800,622.84,鲁(齐),Lǔ (Qí),22-Nov-2013,22-Nov-2013
+16,China,HA,CN-41,Henan Province,河南省,Hénán Shěng,Zhengzhou,"94,023,567",167000,563.02,豫,Yù,22-Nov-2013,22-Nov-2013
+17,China,HB,CN-42,Hubei Province,湖北省,Húběi Shěng,Wuhan,"57,237,740",185900,307.90,鄂,È,22-Nov-2013,22-Nov-2013
+18,China,HN,CN-43,Hunan Province,湖南省,Húnán Shěng,Changsha,"65,683,722",210000,312.78,湘,Xiāng,22-Nov-2013,22-Nov-2013
+19,China,GD,CN-44,Guangdong Province,广东省,Guǎngdōng Shěng,Guangzhou,"104,303,132",180000,579.46,粤,Yuè,22-Nov-2013,22-Nov-2013
+20,China,GX,CN-45,Guangxi Zhuang Autonomous Region,广西壮族自治区,Guǎngxī Zhuàngzú Zìzhìqū,Nanning,"46,026,629",236000,195.03,桂,Guì,22-Nov-2013,22-Nov-2013
+21,China,HI,CN-46,Hainan Province,海南省,Hǎinán Shěng,Haikou,"8,671,518",34000,255.04,琼,Qióng,22-Nov-2013,22-Nov-2013
+22,China,CQ,CN-50,Chongqing Municipality,重庆市,Chóngqìng Shì,Chongqing,"28,846,170",82300,350.50,渝(巴),Yú (Ba),22-Nov-2013,22-Nov-2013
+23,China,SC,CN-51,Sichuan Province,四川省,Sìchuān Shěng,Chengdu,"80,418,200",485000,165.81,川(蜀),Chuān (Shǔ),22-Nov-2013,22-Nov-2013
+24,China,GZ,CN-52,Guizhou Province,贵州省,Gùizhōu Shěng,Guiyang,"34,746,468",176000,197.42,贵(黔),Guì (Qián),22-Nov-2013,22-Nov-2013
+25,China,YN,CN-53,Yunnan Province,云南省,Yúnnán Shěng,Kunming,"45,966,239",394000,116.67,云(滇),Yún (Diān),22-Nov-2013,22-Nov-2013
+26,China,XZ,CN-54,Tibet Autonomous RegionXizang Autonomous Region,西藏自治区,Xīzàng Zìzhìqū,Lhasa,"3,002,166",1228400,2.44,藏,Zàng,22-Nov-2013,22-Nov-2013
+27,China,SN,CN-61,Shaanxi Province,陕西省,Shǎnxī Shěng,Xi'an,"37,327,378",205600,181.55,陕(秦),Shǎn (Qín),22-Nov-2013,22-Nov-2013
+28,China,GS,CN-62,Gansu Province,甘肃省,Gānsù Shěng,Lanzhou,"25,575,254",454300,56.30,甘(陇),Gān (Lǒng),22-Nov-2013,22-Nov-2013
+29,China,QH,CN-63,Qinghai Province,青海省,Qīnghǎi Shěng,Xining,"5,626,722",721200,7.80,青,Qīng,22-Nov-2013,22-Nov-2013
+30,China,NX,CN-64,Ningxia Hui Autonomous Region,宁夏回族自治区,Níngxià Huízú Zìzhìqū,Yinchuan,"6,301,350",66400,94.90,宁,Níng,22-Nov-2013,22-Nov-2013
+31,China,XJ,CN-65,Xinjiang Uyghur Autonomous Region,新疆维吾尔自治区,Xīnjiāng Wéiwú'ěr Zìzhìqū,Ürümqi,"21,813,334",1660400,13.14,新,Xīn,22-Nov-2013,22-Nov-2013
+32,China,HK,CN-91,Hong Kong Special Administrative RegionXianggang Special Administrative Region,香港特别行政区,Xiānggǎng Tèbié Xíngzhèngqū,Hong Kong,"7,061,200",1104,"6,396.01",港,Gǎng,22-Nov-2013,22-Nov-2013
+33,China,MC,CN-92,Macau Special Administrative RegionAomen Special Administrative Region,澳门特别行政区,Àomén Tèbié Xíngzhèngqū,Macau,"552,300",29,"19,044.83",澳,Ào,22-Nov-2013,22-Nov-2013
+34,China,TW,CN-71,Taiwan Province *,台湾省,Táiwān Shěng,Taipei,"23,140,000",35581,650.35,台,Tái,22-Nov-2013,22-Nov-2013
